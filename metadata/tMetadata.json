@@ -1,0 +1,7 @@
+{
+  "description": "Testing NFT to ensure contract setting pass, test network too slow...", 
+  "external_url": "https://testing.com", 
+  "image": "https://raw.githubusercontent.com/Alexis-Zhang0812/nft-neetyunyun/main/metadata/test.png", 
+  "name": "Testing NFT",
+  "attributes": [ ... ]
+}
