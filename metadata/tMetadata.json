@@ -1,6 +1,5 @@
 {
   "description": "Testing NFT to ensure contract setting pass, test network too slow...", 
-  "external_url": "https://test.com", 
-  "image": "ipfs://QmPGZJVH7herxwC3pZKZHm8PBrk9Vmh8EomDvsHM4J6jre", 
-  "name": "Testing NFT"
+  "image": "ipfs://QmVqYJxpgBH2BNzw6FPzoEghqaKPCwEvpdfwoaxtd6CVE7", 
+  "name": "TestNFT"
 }
